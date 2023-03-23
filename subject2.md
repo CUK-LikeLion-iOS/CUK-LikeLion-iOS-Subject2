@@ -18,6 +18,7 @@
 > - map, filter, reduce 등의 함수형 프로그래밍에 유용한 메서드를 제공한다.
 
 <br />
+
 ###### 💡 ARC(Automatic Reference Counting)
 
 - ARC란 자동 참조 계수 기반 메모리 관리 기법으로 객체의 참조 횟수가 0이 되면 해당 객체의 메모리를 자동으로 해제한다.
